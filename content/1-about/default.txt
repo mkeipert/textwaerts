@@ -1,0 +1,19 @@
+Title: About
+
+----
+
+Text: 
+
+##(Über diesen Blog und ein wenig auch über mich)
+
+Die Domain www.mariokeipert.de existiert seit ungefähr 2004 (mindestens). 
+
+Die ersten Jahre befand sich an dieser Stelle eine statische Website, die Fotos und Texte zu meinen Theater-Inszenierungen und Hörspielen (Leipzig, Dresden, Jena) versammelte. Gebaut und aktualisiert mithilfe so toller Software wie Microsoft Frontpage oder Adobe Go Live.
+
+Als Untermieter zog irgendwann, ca. 2007, ein mit Wordpress betriebenes Blog mit ein. Da fand dann zum Beispiel die Dokumentation und Diskussion zu meiner letzten freien Theaterarbeit statt (KRIEG! Anleitung zum freien Denken, Leipzig, Dresden, Hildesheim, Köln 2007/2008). Ich hatte allerdings noch keine Ahnung, was für eine Rolle eine Datenbank bei einem Content Management System spielt, weswegen ich dieses Blog irgendwann 2009 schrottete. 
+
+Nach meinen vorerst letzten Theaterinszenierungen (zuletzt: DAS HOTEL NEW HAMPSHIRE nach John Irving, Tübingen 2008) konnten Rezensionen und Inszenierungsfotos irgendwann die Miete nicht mehr zahlen. Ich war in der Zwischenzeit ein paar Hausnummern weitergezogen und firmiere seitdem offiziell unter www.mkwebworks.de. Während ich hauptberuflich als Webdesigner und -entwickler, als Konzeptioner und Projektleiter arbeite, fallen mir allerdings immer wieder Texte aus der Tasche, die ich nicht unbehaust auf dem Weg zurücklassen möchte. Es bot sich also diese leerstehende Hütte an, um meinen mehr oder weniger fertigen Texten eine Bleibe zu bieten. 
+
+Seit 2010 schon wohnen sie alle zusammen unter dieser Adresse. Auf dem Klingelschild steht: *textwärts*. Hier entsteht ein Heim für sonst unbehaust bleibende Texte. Manche sind vielleicht fertiger als andere, manche dienen eher der Selbstvergewisserung oder der Selbstbefragung, vielleicht ist manch ein Text auch klüger als sein Autor. All das spielt bei der Veröffentlichung nur bedingt eine Rolle. Es handelt sich um nicht mehr und nicht weniger als die Geschichte von Momenten aus meinem Leben, die es *textwärts* trieb.
+
+Nach vielen Jahren, in denen Wordpress die Bude heizte, bin ich irgendwann auf das kleine, ungemein einfache, dafür aber umso flexiblere CMS (link:http://www.getkirby.com text:Kirby popup:yes) gestoßen. Wo Wordpress für behagliche Fernwärme sorgte, da ist Kirby der altbewährte Kohleofen - allerdings mit hochmoderner Technologie unter der Haube, die in meinen Augen Wordpress & Co. ohne Mühen in die zweite Reihe verbannt.

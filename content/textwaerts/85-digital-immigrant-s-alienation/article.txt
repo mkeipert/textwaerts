@@ -1,0 +1,68 @@
+Title: Digital Immigrant's Alienation
+
+----
+
+Teaser: Schöne neue Welt: Ich glaube dir deine Versprechen nicht mehr. Schlecht gelaunte Notizen kurz vor dem Digital Suicide.
+
+----
+
+Text: 
+
+Du erinnerst dich an eine Zeit, in der ein Personal Computer ein großer, teurer Kasten war, der nur tat, was man ihm explizit befahl? An die Jahre, in denen die Internetverbindung die Telefonleitung blockierte und man schon allein wegen der Kosten nicht pausenlos online war sondern, für Minuten, ganz bewusst online ging? Dann bist auch du ein "Digital Immigrant"?
+
+##1
+
+Nimmt man einige soziologische Betrachtungen ernst, befinde ich mich, Geburtsjahr 1978, ziemlich exakt an der Grenze zwischen der Generation der *Digital Natives* und den *Digital Immigrants*. Ältere sehen in mir ohne Frage jemanden, der in der digitalen Welt zuhause ist, und auch ich hab mir das eine Zeit lang vorgegaukelt. Doch die Geschichte geht weiter, die Technik entwickelt sich in rasendem Tempo, und an der nächsten Haltestelle auf der Strecke Richtung Virtueller Realität würde ich dann doch gern aussteigen. Falls sich bis dahin die Haltewunsch-Tasten nicht dematerialisiert haben. 
+
+##2
+
+Zuletzt, beim örtlichen PC-Händler:
+
+* Ich wollte mir gern ein Notebook zulegen, Linux draufspielen, für unterwegs...
+* Wenn ich Linux höre, dann ist bei mir schon mal Schluss!
+* Wieso?
+* Wer sich Linux auf seine Maschine spielt, für den kann ich doch dann nichts mehr machen.
+* Natürlich kannst du für mich was machen: Ich brauche ja die Hardware.
+* Kunden, die ich nicht an mich binden kann, interessieren mich nicht. Die bringen mir ja nichts. Mir bringen nur die Kunden etwas, die wiederkommen. Die Windows-Nutzer. 
+
+##3
+
+Facebook, Google, Apple, Microsoft und der vielgescholtene Online-Händler mit dem A und dem Z im Namen: Das sind die Türsteher unserer digitalen Freiheit. Alle anderen Ideen von Freiheit scheinen ja längst von dem puren Möglichkeitsraum des Digitalen aufgesogen worden zu sein. Die smarte und intelligente Technik, das zunehmende Abwandern der Realität in den virtuellen Raum, sorgt wie nichts anderes mehr für Freiheits- und Machbarkeitsräusche. Was machbar ist, will auch genutzt werden! So leben wir im Großen und Ganzen in einem ziemlich totalitären Konsumrausch. Selbst wo wir dank der digitalen Selbstermächtigung zum Produzenten werden, handelt es sich um letztlich doch um ein Konsumangebot: Nicht nur dass wir produzieren, was andere konsumieren sollen - wie im Rausch konsumieren wir uns selbst, wie wir tun, was wir tun, während wir uns dabei filmen und darüber erzählen und es weiter empfehlen und geliked werden (wollen) ... Den Rausch mal ordentlich ausschlafen? Keine Chance, es sei denn, da springen wenigstens ein hippes Foto und eine ordentliche Anzahl Likes bei raus..
+
+##4
+
+Die gesamte Musik mindestens der letzten 50 Jahren in der Hosentasche? Für die Kinder jede Serie aus der eigenen Kindheit zum kostenfreien Anschauen, vollkommen unabhängig von so etwas Starrem, Unflexiblem wie Sendezeiten? Nahezu jedes Produkt zu Kampfpreisen bestellen und am besten noch am gleichen Tag erhalten? Nachrichten an jedem Ort der Welt, damit es uns nur nirgend langweilig wird? Den eigenen Freunden bei ihrem Tagesablauf zuschauen, um keinen Kommentar verlegen? Kein Problem! Zukünftig scheint es eher problematisch zu werden, wenn man sich dieser zweiten Wirklichkeit entziehen möchte. Indem Telefone und PCs, Brillen und Uhren, Autos und Häuser über die Cloud gleichgeschaltet werden, können und dürfen wir alles immer sofort und überall - nur sollen wir uns möglichst um nichts mehr selbst kümmern. Man nimmt uns doch die Arbeit ab! Das Beste: das passiert ganz automatisch, ohne dass wir darum bitten müssen. Und scheinbar, ohne dass wir dafür zu zahlen haben. 
+
+##5
+
+Vor einigen Jahren machte der Begriff der *(link:textwaerts/eli-pariser-the-filter-bubble text:Filter Bubble*) die Runde: Facebook und Google würden mit der Personalisierung und Filterung der Nachrichtenströme dafür sorgen, dass wir zunehmend in einer abgeschlossenen, auf unsere eigenen Wünsche und Vorlieben abgestimmten Blase durch die Welt treiben würden. Was damals vor allem auf die Welt der Nachrichten und Informationen zutraf, erscheint mir heute eine überaus korrekte Beschreibung unseres Lebens - zumindest in dem Maße, in dem wir es in die Hände von elektronischen Geräten legen. 
+
+##6
+
+Ich las (link:http://netzgemuese.com/ text: Netzgemüse popup:yes) von **Tanja und Johnny Haeusler** zur *Aufzucht und Pflege der Generation Internet*; ich war interessiert an neuen Einsichten zum Umgang mit einem Medium, das ich zu kennen glaubte. Ich legte das Buch nach 1/3 aus der Hand. Ok, wirklich neue Perspektiven auf Facebook, Youtube & Co. fand ich nicht. Nur kann ich mich nicht an der Euphorie darüber beteiligen, dass schon Kinder dank der neuen Technologien zu Produzenten (und eben auch Konsumenten) *innerhalb* einer uns Erwachsene ja schon überfordernden Medienlandschaft werden. Jeder ist frei und befähigt, zu produzieren und sich mitzuteilen; die Freiheit ist indes die Freiheit zum Reproduzieren des Immergleichen; unsere Kinder werden nicht nur mit der Allgegenwart des Internet groß, sondern gewöhnen sich gleich auch an, die Welt durch die Presets der Softwareanbieter und die Filter Bubbles ihres virtuellen Bekanntenkreises zu betrachten. 
+
+##7
+
+Fake News und die Frage nach der Wahrheit? Sind doch, schaut man sich die Mediengeschichte an, eigentlich ein alter Hut. Über die ökonomischen Fragen (Stichwort Energie) und die politischen Implikationen (Stichwort Demokratie und Öffentlichkeit) kann man zwar bei **(link:textwaerts/die-smarte-diktatur text:Harald Welzer)** nachlesen, aber als Gesprächsstoff scheint das nicht zu taugen.   
+
+##8
+
+Es liegt wohl auch an meinem Immigrantenstatus, dass ich in keinem von den diversen Anbietern konstruierten Wohlfühl-Öko-Systemen so richtig heimisch wurde. Von Windows wechselte ich zu Apple, wo ich für eine recht kurze Episode gleich verschiedene, sich ergänzende Geräte nutzte; das iPad degenierte irgendwann zum Fernseher für das Kind, während das iPhone von einem Windows Phone abgelöst wurde. Während dann die einen die leistungsfähige, aber nie zu Ende entwickelte Foto-Software *Aperture* durch das - natürlich an die Cloud angebundene - Progrämmmchen *Fotos* ersetzten, lösten die anderen die von *Nokia* stammende Navigationssoftware durch eine desaströse, buchstäblich in die Irre führende Eigenentwicklung (*Microsoft Karten*) ab. Mit dem Handy gemachte Fotos wanderten derweil erstmal auf die Microsoft Server, weil das der einzig effektive Weg war, die Fotos auf den heimischen Rechner - und dann eben in Apple Fotos - zu bekommen, von wo aus sie ohne weiteres in die nächste Cloud geschickt werden konnten. Musikdateien und Dokumente bewegten sich ebenso auf teils unerfindlichen und manchmal enervierend fehleranfälligen Wegen von Gerät zu Gerät, während mich Handy und Rechner zu fragen begannen, ob ich nicht lieber mit ihnen sprechen möchte, statt mühsam zu tippen. Die Betriebssysteme lernten, mir zuvor zu kommen, sie schlugen mir Abfahrtszeiten vor, damit ich Termine einhalten konnte, verwalteten meine Kontakte und machten allerhand Dinge ungefragt (und manchmal auch unbemerkt?) - und stellten sich mir damit einfach nur beharrlich in den Weg.
+
+##9
+
+Monatlich wiederkehrender Witz auf dem Windows Phone: *Ein neues Update steht bereit.* Die vielsagende und auch nach xx Jahren Windows immer noch verteufelt optimistisch klingende Ankündigung lautet: "Nach dem Update wird Ihr Windows Phone noch besser funktionieren." Was denn jetzt nicht so gut sei und was "besser" überhaupt heißen soll - egal. Ohne eine Einwilligung fährt sich mein Telefon regelmäßig des Nächtens herunter, um am nächsten Morgen von mir manuell, dafür aber mit aktualisierter Software neugestartet werden zu müssen. Während eines dieser Updates führte Microsoft auch ein, dass man bei Benutzung der *Telefon-App* regelmäßig aufgefordert wird, diese im Microsoft Store zu bewerten. Ja: mein Telefon kann tatsächlich telefonieren. Ist mir diese Selbstverständlichkeit mehr als einen von fünf Punkten wert? 
+
+##10
+
+In dem Maße, in dem ich mich von meinen eigenen Konsumgewohnheiten entfremde, sehne ich mich zurück zu all den Geräten, die mir die Arbeit *nicht abnehmen* - mir aber dafür meine ganz eingeschränkte, behäbige Freiheit lassen. Ich bin erschreckend konventionell, ja in manchen Dingen geradezu *kauzig*, geworden. Schöne neue Welt: Ich glaube dir deine Versprechen nicht mehr. 
+
+Ich höre Schallplatten, meide Streaming-Dienste wie der Teufel das Weihwasser, mache Fotos mit einer digitalen Kamera und nutze ein Kabel zum Überspielen der Ergebnisse auf den Rechner; seit einem Jahr nutze ich mit **Linux Mint** ein Betriebssystem, bei dem ich manchmal richtig ins *Grübeln* kommen muss - auch weil es mich weder bevormunden noch für mich denken will. Das aber ansonsten übrigens zuverlässig und fast unsichtbar seine Arbeit tut. Und nein: sprechen möchte ich mit meinem Computer auch nicht.
+
+----
+
+Tags: Harald Welzer,Tanja Haeusler,Johnny Haeusler,Digitalisierung,Linux
+
+----
+
+Date: 2017-02-27

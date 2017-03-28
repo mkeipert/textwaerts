@@ -1,0 +1,65 @@
+Title: The Filter Bubble
+
+----
+
+Teaser: Die Identität im Loop. Eli Parisers Buch über die "Filter Bubble".
+
+----
+
+Text: 
+
+Wenn man bedenkt, wie jung das Internet eigentlich noch ist, ist es schon erstaunlich, wie rasant es unser Leben verändert hat, und wie rasant es sich weiter entwickelt. Von den Anfängen bis zum "Mitmach-Web", auch Web 2.0. genannt, war es ein weiter Weg - allerdings sind wir schon wieder einige große Schritte weiter. Der Hype vor vier fünf Jahren bestand darin, dass wir im Internet "mitmachen" durften (per Weblog, per Kommentar, per Benutzerrezension usw.). Der sich im Zuge von Social Networks und immer ausgefeilteren Personalisierungstechniken anschleichende nächste große Hype ist allerdings schon da: Nun dürfen wir zusehen, wie das World Wide Web alles *mit uns* macht, was wir uns wünschen (oder auch nicht).
+
+Die nicht unbedingt erfreuliche, aber zumindest hippe Zukunftsvision wurde 2011 schon von **Gary Shteyngart** in *[Super Sad True Love Story](http://textwaerts.mkwebworks.de/category/literatur/page/2/)* ([hier kaufen](http://www.amazon.de/gp/product/3498064142/ref=as_li_ss_tl?ie=UTF8&tag=httpwwwmkwebw-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=3498064142)) beschrieben: In der bedrückenden Welt dieses Romans läuft jeder mit einem “Äppärät” herum, der jeden erkennt und anhand seines finanziellen und sozialen Status einordnet. 
+
+Der amerikanische Journalist **Eli Pariser**, der unter anderem das Kampagnen-Netzwerk [avaaz.org](http://www.avaaz.org)  mitgegründet hat, ist in seinem gut recherchierten Buch *The Filter Bubble: What The Internet is Hiding From You* ein Stück näher an der Gegenwart dran - die allerdings, so zeigt sich, auf dem besten Weg in die von Shteyngart entworfene Dystopie ist. Der Titel der deutschen Übersetzung legt daher auch noch eins drauf: *Wie wir im Internet entmündigt werden*, heißt es da.
+
+> In theory, there's never been a structure more capable of allowing us to shoulder the responsability for understanding and managing our world than the Internet. But in practice, the Internet is headed in different direction.
+ 
+Pariser hängt an den frühen Idealen des Internets, die es heute zu verteidigen gilt: die Möglichkeit einer dezentralen Organisation und Kommunikation, die globale Verfügbarkeit von Informationen und auch die informelle Selbstbestimmung. All diese Errungenschaften werden von den profitorientierten Aktivitäten der großen, monolpolartig das Feld bestimmenden Akteure wie Google und Facebook gefährlich in Mitleidenschaft gezogen - mit unmittelbaren Auswirkungen auf unser Leben, unsere Wahrnehmung und unsere Gesellschaft. 
+
+## Das private Internet 
+
+> The technology will be so good, it will be very hard for people to watch or consume something that has not in some sense been tailored for them. (Eric Schmidt, Google)
+
+Im Grunde gibt es zwei zentrale Stellen, von denen aus unser tägliches Surfen startet. Facebook (vielleicht auch noch Twitter) versorgt uns mit dem aus Kommentaren und Empfehlungen von Freunden und Bekannten zusammengestellten Newsfeed, Google bietet per Suchmaschine das Einfallstor in die weite Welt. Pariser zeigt fachkundig und sehr detailliert, wie klein diese uns präsentierte Welt allerdings in Wirklichkeit ist. Das Geschäft mit Suchergebnissen und personalisiertem Newsfeed ist ein Wettkampf um möglichst große *Relevanz*: Um so genauer das uns Gezeigte unseren Erwartungen entspricht, umso "erfolgreicher" (und profitabler) ist der Service.
+
+Ohne dass wir es merken, bewegen wir uns innerhalb einer Blase, die immer erfolgreicher das herausfiltert, was aufgrund unseres minitiös protokollierten Such- und Surfverhaltens, aufgrund von Interaktionen oder geteilten Inhalten aus dem Raster fällt. Statt in einem öffentlichen Raum bewegen wir uns in einem privaten, auf uns zugeschneiderten Rahmen. So sehr das personalisierte Surferlebnis für Wow-Effekte und freudige Überraschungen sorgen mag - es basiert nicht nur auf der Verwertung unserer Daten durch einige wenige Konzerne, es führt zu Ausschluss, Reduktion, Einengung. Und zwar, das ist einer der großen Kritikpunkte von Pariser: *ohne dass wir es merken.*
+
+## Identität im Loop 
+
+> In the bubble, the proportion of content that validates what you know goes way up.
+
+Pariser untersucht und beschreibt detailliert die Techniken, die der Personalisierung zugrunde liegen, um dann zu hinterfragen, was es für unsere Wahrnehmung bedeutet, wenn die Inhalte, die wir im Internet finden, immer stärker unseren Erwartungen entsprechen, unsere Vorlieben bedienen oder unsere Einstellungen bestärken. Schon einmal darüber nachgedacht, was es heißen würde, wenn es neben dem *Like*-Button einen *Relevant*-Button gäbe? 
+
+ > The personalized environment is very good at answering the questions we have but not at suggesting questions or problems that are out of our sight altogether.
+
+Man muss ja nicht zurück zu den frühen Tages des Internets, wo die Benutzung einer Suchmaschine dem Erforschen eines unbekannten Kontinents gleichkam. "Damals" hangelte man sich von Link zu Link, entdeckte überall Unbekanntes und *musste* bereit sein, sich unentwegt auf neues Terrain von oftmals auch zweifelhafter Qualität einzulassen. Heute dagegen, wo Google daran arbeitet, einem die eigenen Fragen vorzuschlagen, noch bevor man sie formuliert hat, bewegt man sich allzuoft (schon aus Gewohnheit) auf zwar individuellen, aber eben einschlägigen Pfaden - störende Unübersichtlichkeit ist längst ebenso ausgeblendet wie Fremdes oder Unangenehmes.
+
+Die eigene Identität, in den frühen Tagen des Internet außen vor, beeinflusst mittlerweile die Erfahrungen, die wir im Netz machen. Aber sollte Mark Zuckerberg wirklich besser wissen als wir, wer wir gerade eben sind? 
+
+## Was kommt als nächstes?
+
+> Your identity shapes your media, and your media then shapes what you believe and what you care about.
+
+Die Personalisierung wird eigentlich erst dann *so richtig* spannend, wenn das Internet den Browser und den PC verlässt. Ob *Google Glass* oder *ambient intelligence* - die Technologien stehen längst bereit. Wenn die *Filter Bubble* sich dann eben wie eine Brille über unsere Welt legt, ist die *City of Ghettos*, die Pariser am Ende des Buches beschreibt, Realität, kontrolliert von Informationsmonopolen, die an die Stelle von Gesellschaft und Öffentlichkeit das individualisierte, private Benutzererlebnis setzen.
+
+Mit durchaus amerikanischem Pathos, das in der Sache aber angemessen ist, kämpft Pariser für ein Bewusstsein über die Mechanismen, die heute schon einen Großteil unserer Wahrnehmung prägen. Mit diesem Bewusstsein lassen sich, auch das zeigt er, Auswege und Umgangsweisen finden, um das Internet wieder als Weg zu einer offenen Gestaltung unserer Welt zu benutzen. 
+
+> Protecting the early vision of radical connectedness and user control should be an urgent priority for all of us.
+
+## Links 
+
+[The Filter Bubble](http://www.thefilterbubble.com/)
+[Upworthy - Share Better](http://www.upworthy.com)
+
+Eli Pariser: Filter Bubble. Wie wir im Internet entmündigt werden.
+Alle Zitate stammen aus der amerikanischen Ausgabe, Penguin Books 2011.
+
+----
+
+Tags: Gary Shteyngart,Eli Pariser,Eric Schmidt
+
+----
+
+Date: 2012-04-11
